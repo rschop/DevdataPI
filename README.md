@@ -1,1 +1,1 @@
-# DevdataPI for Raspberry
+# DevdataPI for Raspberry via SSH
